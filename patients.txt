@@ -1,0 +1,4 @@
+4321, 0222, Mira Manago, Insulin, Week, 11:30:00
+0827, 0118, Gian Garnet Camacho, Antibiotics, Mon Wed Fri, 09:00:00
+0827, 1020, Kenjie Nebril, Vitamin C, Mon, 14:20:00
+0222, 0024, Iso, Vitamin Mira, Weekly, 23:30:00
